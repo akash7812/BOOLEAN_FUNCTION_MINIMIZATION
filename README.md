@@ -36,6 +36,7 @@ Hardware – PCs, Cyclone II , USB flasher
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
 Developed by: AKASH KUMAR M. 
+
 RegisterNumber: 212223230010
 ```
 module ex02(A,B,C,D,F1);
@@ -50,17 +51,19 @@ assign x5=(B)&(~C)&(D);
 assign F1=x1|x2|x3|x4|x5;
 endmodule
 ```
-*/
+
 
 **RTL realization**
 
 **Output:**
+
 ![ex-output2](https://github.com/akash7812/BOOLEAN_FUNCTION_MINIMIZATION/assets/146819826/1f65b886-29e5-40e1-a37f-00c204d52827)
 
 
 **RTL**
 
 **Timing Diagram**
+
 ![ex-out-2](https://github.com/akash7812/BOOLEAN_FUNCTION_MINIMIZATION/assets/146819826/ec1bfefa-87c6-4983-8cc9-a98c8ce47a06)
 
 
