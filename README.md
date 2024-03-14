@@ -59,6 +59,10 @@ endmodule
 
 ![ex-output2](https://github.com/akash7812/BOOLEAN_FUNCTION_MINIMIZATION/assets/146819826/1f65b886-29e5-40e1-a37f-00c204d52827)
 
+**Truth Table**
+
+![285832032-236326de-e839-4fad-908b-bb236e0a13dd](https://github.com/sanjayashwinP/BOOLEAN_FUNCTION_MINIMIZATION/assets/147473265/399f99d5-79cc-443a-b54a-41d7a0326a5c)
+
 
 **RTL**
 
